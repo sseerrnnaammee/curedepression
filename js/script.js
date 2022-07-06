@@ -113,7 +113,7 @@ monogatari.script ({
 		'y Hi {{player.name}} Welcome to Monogatari!',
 		{
 			'Choice': {
-				'Dialog': 'y Have you already read some documentation?',
+				'Dialog': 'y Have you already read some documentationn?',
 				'Yes': {
 					'Text': 'Yes',
 					'Do': 'jump Yes'

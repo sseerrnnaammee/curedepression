@@ -85,7 +85,7 @@ monogatari.script ({
 	// 游戏开始，这是第一天
 	'Start': [
 		'show scene #f7f6f6 with fadeIn', //场景：篝火地
-		'y 你好啊hjgjhjhhgjghjh',
+		'y 你好啊',
 		'y 你能坐过来吗？',
 		// 在这里切换拉近版的场景
 		'y ...',
